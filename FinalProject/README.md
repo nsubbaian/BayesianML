@@ -1,0 +1,1 @@
+The final project can be in groups of 2-3. Please try to identify at general area of interest, and a dataset(or datasets) that you would like to work with. More details on final project requirements are in the syllabus, please refer to that. Here is one possible source of inspiration:
