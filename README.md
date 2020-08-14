@@ -1,5 +1,7 @@
 # BayesianML
 
+Class Resources: https://drive.google.com/drive/folders/10F46cSsRCfOhNvN91EdE30ufPqQttLch
+
 | Date  	| Assignment                                                                                                                                                               	|
 |-------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 9/5   	| -Gender Stereotyping in Academia: Evidence from Economics Job Market Rumors Forum (in the drive as Wu_EJMR_paper.pdf)                                                     	|
